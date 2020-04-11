@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Task3GPS</string>
+    <string name="provider_gps">Местоположение</string>
+    <string name="location_settings">Настройки</string>
+    <string name="request_permission">Запрос на разрешение</string>
+    <string name="request_location_permission">Разрешить доступ к Вашему точному местоположению?</string>
+    <string name="ok">OK</string>
+    <string name="disabled">Отключен!</string>
+    <string name="enabled">Включен!</string>
+    <string name="Coordinates">Координаты:</string>
+    <string name="LastCoordinates">Последние координаты:</string>
+    <string name="statusGPS">Статус GPS:</string>
+    <string name="Unknown">Неизвестно</string>
+</resources>
